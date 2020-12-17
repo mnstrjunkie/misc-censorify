@@ -1,0 +1,11 @@
+{
+  "author": "Drew Kanapa",
+  "name": "censorify",
+  "version": "0.1.1",
+  "description": "Censors certain words in a field",
+  "main": "censortext",
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
